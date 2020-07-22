@@ -1,0 +1,6 @@
+apiVersion: v2
+name: fido2-yubico-demo
+description: A Fido2 Youbico Demo Helm chart
+type: application
+version: 0.1.0
+appVersion: 1.16.0
